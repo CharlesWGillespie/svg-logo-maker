@@ -44,7 +44,6 @@ const questions = [
   },
 ];
 
-// Function to create a new SVG file with users input
 function createSVG(response) {
   const svgString = `
     <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
@@ -65,13 +64,11 @@ async function init() {
   const response = await inquirer.prompt(questions);
   const svg = new SVG();
 
-  // Confirm text length
   if (!validateTextLength(response.text)) {
     console.log("Error: Text cannot be more than 3 characters in length.");
     return;
   }
 
-  // Confirm color
   if (!validateColor(response.color)) {
     console.log(
       "Error: Color not found."
