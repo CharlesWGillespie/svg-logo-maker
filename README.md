@@ -17,7 +17,7 @@
 To use this project make sure to install all files provided in this project. In your terminal make sure to have inquirer installed by typing npm install inquirer@8 then open an integrated terminal on the main.js file by right clicking the file and clicking 'open integrated terminal', in the terminal type node main.js and answer the the following questions when promted. MAKE SURE TO CHECK SPELLING!!
 
 ## Usage
-npm, JavaScript, nodejs
+This project is intended for personal use in the case where the user wants a simple logo generator for personal projects
 
 ## Contribution
 npm, JavaScript, nodejs
