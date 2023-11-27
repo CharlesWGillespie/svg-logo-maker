@@ -20,7 +20,9 @@ To use this project make sure to install all files provided in this project. In 
 This project is intended for personal use in the case where the user wants a simple logo generator for personal projects
 
 ## Contribution
-npm, JavaScript, nodejs
+npm
+JavaScript
+nodejs
 
 ## Testing
 
