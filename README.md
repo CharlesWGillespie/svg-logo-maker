@@ -29,6 +29,7 @@ nodejs
 
 https://github.com/CharlesWGillespie/svg-logo-maker/assets/143773137/f08dcba1-df98-466c-95ad-72ded75bc382
 
+![svgviewer-png-output (2)](https://github.com/CharlesWGillespie/svg-logo-maker/assets/143773137/2992eb60-7b00-4bec-b27d-de74e019f411)
 
 
 
